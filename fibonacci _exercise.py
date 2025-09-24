@@ -10,3 +10,4 @@ def fib(number):
 for x in fib(20):
     print(x)
         
+        

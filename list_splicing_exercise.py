@@ -3,6 +3,7 @@
 new_list = ['a', 'b', 'c']
 print(new_list[1])
 
+
 # b
 
 print(new_list[-2])

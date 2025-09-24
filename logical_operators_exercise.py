@@ -1,6 +1,5 @@
 is_magician = False
 is_expert = True
-
 # check if magician AND expert: "You're a master magician!"
 
 # check if magician BUT not an expert: "At least you're getting there."

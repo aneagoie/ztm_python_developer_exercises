@@ -1,6 +1,7 @@
 # loop through the list(s) 
 # zeros display an empty space and ones display a *
 
+
 picture = [
     [0,0,0,1,0,0,0],
     [0,0,1,1,1,0,0],

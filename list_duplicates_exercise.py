@@ -1,5 +1,6 @@
 # Check for duplicates in the following list
 
+
 some_list = ['a', 'b', 'c', 'b', 'd', 'm', 'n', 'n']
 
 new_list = []

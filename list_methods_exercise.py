@@ -1,6 +1,7 @@
 # using this list, 
 basket = ["Banana", "Apples", "Oranges", "Blueberries"];
 
+
 # 1. Remove the Banana from the list
 
 # basket.remove('Banana')

@@ -7,3 +7,4 @@ for item in my_list:
     counter = counter + item
 
 print(counter)
+

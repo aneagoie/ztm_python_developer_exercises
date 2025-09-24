@@ -4,6 +4,7 @@ user1 = {
     'valid': True #changing this will either run or not run the message_friends function.
 }
 
+
 def authenticated(fn):
     def wrapper(*args, **kwargs):
         if args[0]['valid']:

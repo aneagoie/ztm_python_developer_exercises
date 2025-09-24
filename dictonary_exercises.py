@@ -1,5 +1,6 @@
 #1 Create a user profile for your new game. This user profile will be stored in a dictionary with keys: 'age', 'username', 'weapons', 'is_active' and 'clan'
 
+
 user = {
     'age':38,
     'username':'Father',
